@@ -1,2 +1,3 @@
 name: Zhijia Chen homepage
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
