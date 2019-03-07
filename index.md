@@ -10,4 +10,8 @@ I am a PhD student at the [CIS Department](http://www.temple.edu/cis/), [Temple 
 
 ## News
 
+* April, 2019: Enabling Policy Innovation in Interdomain Routing: A Software-Defined Approach [SOSR 2019](https://conferences.sigcomm.org/sosr/2019/)
+
+* April, 2019: (Demo) Bolero: Enabling Policy Innovation in Interdomain Routing [SOSR 2019](https://conferences.sigcomm.org/sosr/2019/)
+
 * June, 2018: Ravel v0.2.1 released. [Release notes](https://github.com/ravel-net/ravel/releases/tag/v0.2.1)
